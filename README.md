@@ -1,5 +1,5 @@
-#MTA 98-361: Software Development Fundamentals
+# MTA 98-361 Software Development FUndamentals
 
-##Arnold Burnley
+## Microsoft Official Academic Course
 
-These exercises are from the official Microsoft Coursebook for MTA 98-361.
+These are activities from the offical MOAC book for MTA 98-361. 
